@@ -1,0 +1,22 @@
+body{
+    font-family: "poppins" , sans-serif;
+}
+
+.cabecalho {
+    background-color: rgb(128, 120, 120);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.logo-cabecalho {
+    width: 10%;
+}
+
+.item-cabecalho {
+    display: inline-bloc;
+    color: white;
+    font-size: 24px;
+    margin: 0 16px;
+}
